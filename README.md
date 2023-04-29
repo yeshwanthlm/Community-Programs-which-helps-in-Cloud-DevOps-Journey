@@ -16,7 +16,7 @@
 13. AWS Cloud Club: https://aws.amazon.com/developer/community/students/
 
 
-Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos 
+Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
 Follow our GitHub here: https://github.com/yeshwanthlm \
 Follow our blog here: https://amonkincloud.com/ \
 Follow my personal blog here:https://dev.to/yeshwanthlm/ \
